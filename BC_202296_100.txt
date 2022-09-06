@@ -1,0 +1,15 @@
+PNR				:	BC_202296_100
+TrainNo			:	1005
+Train Name		:	Brindavan Express
+From			:	Bangalore
+To				:	Chennai
+Travel Date		:	6/9/2112
+
+Passengers:
+---------------------------------------------------------
+Name		Age		Gender		Fair
+---------------------------------------------------------
+AJAY		25		M		1000.0
+RAJU		45		M		1000.0
+
+Total Price: 2000.0

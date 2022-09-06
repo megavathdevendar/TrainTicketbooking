@@ -1,0 +1,17 @@
+PNR				:	BD_202299_0
+TrainNo			:	1001
+Train Name		:	Shatabdi Express
+From			:	Bangalore
+To				:	Delhi
+Travel Date		:	9/9/2112
+
+Passengers:
+---------------------------------------------------------
+Name		Age		Gender		Fair
+---------------------------------------------------------
+CHANDU		45		M		2500.0
+YASHODA		23		F		625.0
+KAMALI BAI		42		F		625.0
+DEVYA		25		M		2500.0
+
+Total Price: 6250.0
